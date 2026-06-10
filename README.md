@@ -51,7 +51,7 @@ Collaborated in a team to develop an AI-powered childcare web application that h
 ## Education
 **Bachelor Degree of Computer Science (Software Engineering)**
 University of Malaya
-2017 - 2021
+Sept 2017 - Aug 2021
 
 ## Contact
 - Email: zamil121297@gmail.com
