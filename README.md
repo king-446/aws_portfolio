@@ -3,7 +3,7 @@
 ## About Me
 I am a Computer Science graduate specializing in Software Engineering with an interest in full-stack web development and modern software technologies. I enjoy building practical applications, learning new technologies, and collaborating with teams to solve real-world problems. My experience includes developing web applications using FastAPI, Supabase, JavaScript, and modern frontend frameworks.
 
-## Technical Skills
+<!-- ## Technical Skills
 
 ### Programming Languages
 - Python
@@ -16,7 +16,13 @@ I am a Computer Science graduate specializing in Software Engineering with an in
 - Visual Studio Code
 - pgAdmin
 - Linux
-- Microsoft Office
+- Microsoft Office -->
+
+## Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ## Projects
 
@@ -35,12 +41,6 @@ Collaborated in a team to develop an AI-powered childcare web application that h
 - Backend API development using FastAPI
 - Database design and management with Supabase
 - Testing and debugging
-
-## Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ## Currently Learning
 - Full Stack Development
