@@ -24,6 +24,11 @@ I am an aspiring IT professional interested in software development, web develop
 - Developed an AI childcare web app to allow parents or caregivers to monitor child status.
 - Technologies: Vuetify, FastAPI, Supabase
 
+## Education
+**Bachelor Degree of Computer Science (Software Engineering)**
+University of Malaya
+2017 - 2021
+
 ## Contact
 - Email: zamil121297@gmail.com
 - LinkedIn: linkedin.com/in/zamil-zainol-98a578281
