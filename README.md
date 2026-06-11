@@ -19,6 +19,7 @@ I am a Computer Science graduate specializing in Software Engineering with an in
 - Microsoft Office -->
 
 ## Tech Stack
+![Vuetify](https://img.shields.io/badge/Vuetify-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
